@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../12 A Comparative Study of Machine/Code/acomparativesanalysis/.idea/acomparativesanalysis.iml" filepath="$PROJECT_DIR$/../../../12 A Comparative Study of Machine/Code/acomparativesanalysis/.idea/acomparativesanalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../14 Generating Cloud Monitors/Code/cloudmonitor/.idea/cloudmonitor.iml" filepath="$PROJECT_DIR$/../../../14 Generating Cloud Monitors/Code/cloudmonitor/.idea/cloudmonitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/realtime-facial-emotion-analyzer-master.iml" filepath="$PROJECT_DIR$/.idea/realtime-facial-emotion-analyzer-master.iml" />
+    </modules>
+  </component>
+</project>
